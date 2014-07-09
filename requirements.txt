@@ -1,0 +1,6 @@
+Flask==0.10.1
+Flask-HTTPAuth==2.2.1
+Flask-PyMongo==0.3.0
+itsdangerous==0.24
+passlib==1.6.2
+simplejson==3.3.1
