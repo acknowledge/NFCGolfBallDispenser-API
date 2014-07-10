@@ -6,7 +6,8 @@ APIs for the NFC Golf Ball Dispenser Project
 
 ## Context
 
-This is APIs that have to run on a server where a MongoDB database is installed and accessible through port 27017.
+This API is made with Python and the [Flask](http://flask.pocoo.org/) framework.
+This has to run on a server where a MongoDB database is installed and accessible through port 27017.
 
 
 ## Installation
